@@ -1,0 +1,5 @@
+- Hi, I’m Danilo
+- I’m interested in Data Analysis and AI
+- I’m currently learning C
+- Improving Python and SQL
+- How to reach me: danilogualberto2406@gmail.com
